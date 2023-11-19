@@ -1,0 +1,23 @@
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(76, 3, 195); /* Color de fondo del botón */
+    color: #fbfbfb; /* Color del texto */
+    font-size: 16px;
+    border: none;
+    border-radius: 50px;
+    transition: all 0.3s;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+  .button:hover {
+    background:rgb(35, 0, 91);
+    color: white;
+    border: 2px;
+    border-color: white;
+    font-size: 18px;
+  }
+  
